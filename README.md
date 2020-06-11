@@ -1,3 +1,6 @@
+![GitHub language count](https://img.shields.io/github/languages/count/milena-ramiro/Chat) 
+![GitHub top language](https://img.shields.io/github/languages/top/milena-ramiro/Chat)
+
 # :iphone: Chat 
 
 ## Chat - Xamarin Forms
